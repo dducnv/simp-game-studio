@@ -88,7 +88,7 @@ export default function Home() {
                     </div>
                     <div className="flex p-4 pb-2 border-t border-gray-200 " />
                     <div className="flex space-x-3 text-sm font-medium h-16">
-                      <button className="w-1/2 hover:bg-gray-100 flex justify-center items-center">
+                    <button className="w-1/2 hover:bg-gray-100 flex justify-center items-center rounded-md">
                         <svg
                           className="me-3 w-7 h-7"
                           aria-hidden="true"
@@ -107,7 +107,7 @@ export default function Home() {
                         Google Play
                       </button>
                       <div className="bg-gray-100 w-[1px]" />
-                      <button className="w-1/2 hover:bg-gray-100 flex justify-center items-center">
+                      <button className="w-1/2 hover:bg-gray-100 flex justify-center items-center rounded-md">
                         <svg
                           className="me-3 w-7 h-7"
                           aria-hidden="true"
