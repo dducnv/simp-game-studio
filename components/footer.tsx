@@ -6,7 +6,7 @@ export const Footer = () => {
     <>
       {/* component */}
 
-      <div className="flex flex-col mx-3 bg-white rounded-lg border-t">
+      <div className="flex flex-col  border-t">
         <div className="w-full draggable">
           <div className="container flex flex-col mx-auto">
             <div className="flex flex-col items-center w-full my-20">
